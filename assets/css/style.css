@@ -2768,7 +2768,7 @@ body {
 }
 
 .standard-page section>ol>li>ol>li>ol>li:after {
-    background-image: url(/assets/images/dala-bullet.svg);
+    background-image: url(../images/dala-bullet.svg);
     background-repeat: no-repeat;
     background-size: 100% 95%;
     content: "";
@@ -2792,7 +2792,7 @@ body {
 }
 
 .standard-page ul li:before {
-    background-image: url(/assets/images/dala-bullet.svg);
+    background-image: url(../images/dala-bullet.svg);
     background-repeat: no-repeat;
     background-size: 100% 95%;
     content: "";
